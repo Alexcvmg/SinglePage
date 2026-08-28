@@ -67,6 +67,8 @@ diretamente no navegador.
 
 💻 **Repositório:** [GitHub](https://github.com/Alexcvmg/SinglePage)
 
+🌐 Projeto online: https://alexcvmg.github.io/SinglePage/
+
 ---
 
 ⬅️ [Voltar para o Frontend Portfolio](https://github.com/Alexcvmg/frontend-portfolio)
